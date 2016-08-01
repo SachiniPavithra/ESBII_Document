@@ -98,6 +98,45 @@
 
 ![screenshot 232](https://cloud.githubusercontent.com/assets/20767123/17291222/428cf078-5800-11e6-96f1-aa5837b740d3.png)
 
+12. Then locate the saved private key to start the linux instance with putty. 
 
+![screenshot 233](https://cloud.githubusercontent.com/assets/20767123/17291282/96439ce4-5800-11e6-9d26-fc87f33a78b6.png)
 
+13. Then the console will appear and user has to login as “ec2-user” to launch the Linux AMI instance.
+
+![screenshot 234](https://cloud.githubusercontent.com/assets/20767123/17291305/b75c8850-5800-11e6-9d42-b307007c454f.png)
+
+![screenshot 236](https://cloud.githubusercontent.com/assets/20767123/17291330/da3d9f76-5800-11e6-8c9a-d9730295850b.png)
+
+#03 Create DB instance using RDS.
+
+1. Click on RDS button
+
+![screenshot 237](https://cloud.githubusercontent.com/assets/20767123/17291353/fbd2c4d6-5800-11e6-9635-36bc6712030b.png)
+
+2 Select MySql and click the select button 
+
+![screenshot 238](https://cloud.githubusercontent.com/assets/20767123/17291373/15f508e2-5801-11e6-8789-baa593df61c4.png)
+
+3 Configure the settings given below
+
+![screenshot 241](https://cloud.githubusercontent.com/assets/20767123/17291403/397cf680-5801-11e6-9cd8-f717700c727f.png)
+
+4 Configure the settings given below and Launch DB Instance.
+
+![screenshot 243](https://cloud.githubusercontent.com/assets/20767123/17291427/6b950ba8-5801-11e6-90dd-e2898e21ee6b.png)
+
+5. User can view the instance by clicking the “View Your DB instance” button 
+
+![screenshot 244](https://cloud.githubusercontent.com/assets/20767123/17291438/891ef1f2-5801-11e6-9415-1d178ab50afe.png)
+
+6 User has to wait for few minutes.
+
+![screenshot 248](https://cloud.githubusercontent.com/assets/20767123/17291456/af6a3ace-5801-11e6-8bfc-3b22b6dd8189.png)
+
+7. Finally user can login to the DB using the given user name and the password
+
+![screenshot 246](https://cloud.githubusercontent.com/assets/20767123/17291486/dc18ce82-5801-11e6-83ba-b49b35d0c25d.png)
+
+![capture2](https://cloud.githubusercontent.com/assets/20767123/17291523/14bc4534-5802-11e6-8904-8b2eda3a0666.PNG)
 
