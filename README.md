@@ -64,7 +64,7 @@
 
 ![screenshot 223](https://cloud.githubusercontent.com/assets/20767123/17290962/d44e5a8a-57fe-11e6-8625-b0d7de33f329.png)
 
-4.Next user has to create a new key pair to launch the newly created instance by providing a name to the key pair and then click “Download Key pair” button to download the key pair to your system and “Sachini_Linux.pem” file will be downloaded.
+4. Next user has to create a new key pair to launch the newly created instance by providing a name to the key pair and then click “Download Key pair” button to download the key pair to your system and “Sachini_Linux.pem” file will be downloaded.
 
 ![screenshot 225](https://cloud.githubusercontent.com/assets/20767123/17290999/01b02b98-57ff-11e6-94fa-84db60ddac1c.png)
 
